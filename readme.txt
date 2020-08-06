@@ -1,4 +1,4 @@
 你好世界
 你好先生
 修改王先生
-这是分支第一次提交
+Creating a new branch is quick AND simple.
